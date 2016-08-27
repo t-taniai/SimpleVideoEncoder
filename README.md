@@ -24,5 +24,8 @@ Options and default values in []:
 - -trimEnd [0]
 - -fourcc [H264]
 
+## Binaries
+See Windows binaries at [releases](../../releases)
+
 ## History
 - 2016/08/25 Released
